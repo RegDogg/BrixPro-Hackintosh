@@ -2,7 +2,7 @@
 
 NOTE: This Repository may not be updated over time, due to this being hopefully compatible for a long time to come. Kexts will be updated as they are released.
 
-My Specifications:
+# My Specifications:
 
 
 
@@ -12,7 +12,7 @@ RAM: 16gb 1600Mhz DDR3
 SSD SATA: OCZ-Trion100 480gb SSD
 SSD MSATA: Crucial CT120 120gb SSD
 
-What's Working:
+# What's Working:
 
 Ethernet
 WiFi (DW1510)
@@ -23,5 +23,5 @@ ALC 269 Realtek Audio
 SPDIF Audio
 HDMI Audio
 
-Not Working:
+# Not Working:
 Bluetooth
