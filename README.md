@@ -4,6 +4,8 @@ NOTE: This Repository may not be updated over time, due to this being hopefully 
 
 My Specifications:
 
+
+
 CPU: i5-4570R
 
 iGPU: Intel Iris Pro 5200
@@ -16,16 +18,29 @@ SSD MSATA: Crucial CT120 120gb SSD
 
 
 
+
+
 What's Working:
 
+
+
 Ethernet
+
 WiFi (DW1510)
+
 HDMI Port
+
 DP Mini Port
+
 All 4 USB 3.0 Ports
+
 ALC 269 Realtek Audio
+
 SPDIF Audio
+
 HDMI Audio
+
+
 
 
 Not Working:
