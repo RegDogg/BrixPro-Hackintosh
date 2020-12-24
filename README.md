@@ -5,9 +5,13 @@ NOTE: This Repository may not be updated over time, due to this being hopefully 
 My Specifications:
 
 CPU: i5-4570R
+
 iGPU: Intel Iris Pro 5200
+
 RAM: 16gb 1600Mhz DDR3
+
 SSD SATA: OCZ-Trion100 480gb SSD
+
 SSD MSATA: Crucial CT120 120gb SSD
 
 
